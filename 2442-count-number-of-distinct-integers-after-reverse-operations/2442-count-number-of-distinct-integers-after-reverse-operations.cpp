@@ -1,0 +1,25 @@
+class Solution {
+public:
+int reverse(int n){
+    int rev = 0,rem;
+    while(n>0){
+        rem = n%10;
+        rev = rev*10+rem;
+        n/=10;
+    }
+    return rev;
+}
+    int countDistinctIntegers(vector<int>& nums) {
+        int n = nums.size();
+        unordered_set<int>s;
+        for(int i = 0;i<n;i++){
+            s.insert(nums[i]);
+        }
+        for(int i = 0;i<n;i++){
+            int rev = reverse(nums[i]);
+            s.insert(rev);
+        }
+        return s.size();
+
+    }
+};
