@@ -20,4 +20,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0001-two-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1480-running-sum-of-1d-array](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1480-running-sum-of-1d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
