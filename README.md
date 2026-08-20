@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0242-valid-anagram) |
+| [1207-unique-number-of-occurrences](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1207-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
@@ -18,4 +19,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0001-two-sum) |
+| [1207-unique-number-of-occurrences](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1207-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
