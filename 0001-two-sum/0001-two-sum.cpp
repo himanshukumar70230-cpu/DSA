@@ -7,7 +7,7 @@ public:
             int s = target-nums[i];
             if(m.find(s)!=m.end()){
                 return {i,m[s]};
-            }else m[nums[i]]=i;
+            }else m.insert({nums[i],i});
         }
         return {-1,-1};
     }
