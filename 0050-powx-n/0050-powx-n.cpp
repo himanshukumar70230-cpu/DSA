@@ -11,11 +11,10 @@ public:
         if (N == 0)
             return 1;
 
-        double half = myPow(x, N / 2);
-
+        double half = myPow(x,N/2);
         if (N % 2 == 0)
-            return half * half;
+            return half*half;
 
-        return x * half * half;
+        return x *  half*half;
     }
 };
