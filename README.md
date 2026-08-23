@@ -36,5 +36,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0050-powx-n) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/himanshukumar70230-cpu/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
