@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0242-valid-anagram) |
 | [1207-unique-number-of-occurrences](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/himanshukumar70230-cpu/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/himanshukumar70230-cpu/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0238-product-of-array-except-self) |
 | [1207-unique-number-of-occurrences](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/himanshukumar70230-cpu/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
 | ------- |
