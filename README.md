@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0242-valid-anagram) |
 | [1927-sum-game](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1927-sum-game) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/himanshukumar70230-cpu/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/himanshukumar70230-cpu/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/himanshukumar70230-cpu/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/himanshukumar70230-cpu/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
