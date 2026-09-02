@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0509-fibonacci-number) |
 | [1927-sum-game](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/himanshukumar70230-cpu/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/himanshukumar70230-cpu/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -85,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
