@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0238-product-of-array-except-self) |
+| [0867-transpose-matrix](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0867-transpose-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/himanshukumar70230-cpu/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
