@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0238-product-of-array-except-self) |
 | [0867-transpose-matrix](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0867-transpose-matrix) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
