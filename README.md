@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0238-product-of-array-except-self) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0867-transpose-matrix) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/himanshukumar70230-cpu/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Linked List
 |  |
 | ------- |
