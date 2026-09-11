@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0242-valid-anagram) |
 | [1927-sum-game](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1927-sum-game) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
