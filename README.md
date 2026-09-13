@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0242-valid-anagram) |
 | [1207-unique-number-of-occurrences](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/himanshukumar70230-cpu/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/himanshukumar70230-cpu/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/himanshukumar70230-cpu/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/himanshukumar70230-cpu/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0242-valid-anagram) |
 | [1927-sum-game](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1927-sum-game) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/himanshukumar70230-cpu/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/himanshukumar70230-cpu/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/himanshukumar70230-cpu/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/himanshukumar70230-cpu/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/himanshukumar70230-cpu/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/himanshukumar70230-cpu/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/himanshukumar70230-cpu/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0867-transpose-matrix) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/himanshukumar70230-cpu/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Ternary Search
 |  |
 | ------- |
