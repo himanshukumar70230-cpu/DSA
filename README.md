@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0242-valid-anagram) |
 | [1207-unique-number-of-occurrences](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/himanshukumar70230-cpu/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/himanshukumar70230-cpu/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/himanshukumar70230-cpu/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/himanshukumar70230-cpu/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/himanshukumar70230-cpu/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/himanshukumar70230-cpu/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0509-fibonacci-number) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1927-sum-game](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1927-sum-game) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/himanshukumar70230-cpu/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/himanshukumar70230-cpu/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -138,5 +141,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1814-count-nice-pairs-in-an-array](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/himanshukumar70230-cpu/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 <!---LeetCode Topics End-->
