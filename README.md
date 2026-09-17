@@ -143,4 +143,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1814-count-nice-pairs-in-an-array](https://github.com/himanshukumar70230-cpu/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/himanshukumar70230-cpu/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
