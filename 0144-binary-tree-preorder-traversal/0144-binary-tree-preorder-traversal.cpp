@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-     vector<int> preorder(TreeNode*root, vector<int>&v){
+vector<int> preorder(TreeNode*root, vector<int>&v){
         if(root == NULL) return v;
         v.push_back(root->val);
         preorder(root->left,v);
@@ -23,4 +23,5 @@ public:
         ans = preorder(root,ans);
         return ans;
     }
+
 };
