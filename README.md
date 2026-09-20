@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/himanshukumar70230-cpu/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/himanshukumar70230-cpu/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/himanshukumar70230-cpu/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/himanshukumar70230-cpu/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/himanshukumar70230-cpu/DSA/tree/master/0867-transpose-matrix) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/himanshukumar70230-cpu/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3498-reverse-degree-of-a-string](https://github.com/himanshukumar70230-cpu/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Ternary Search
 |  |
 | ------- |
