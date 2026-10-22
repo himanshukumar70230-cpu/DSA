@@ -24,8 +24,7 @@ public:
             temp = temp->next;
         }
         
-        if((size%2)!= 0) return temp;
-        else return temp;
+       return temp;
         
     }
 };
